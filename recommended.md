@@ -3,6 +3,8 @@
 
 ## Principles by Ray Dalio
 
+![Image](https://i.imgur.com/Dua9wDJ.png)
+
 What mindsets and narratives should you adopt if you are ambitious and want to be successful?
 
 In this monster-sized tome, the definition of success is left up to the reader.
@@ -12,6 +14,8 @@ Ray Dalio shares both his autobiography and the principles he believes that ambi
 
 
 ## The Meritocracy Trap by Daniel Markovits
+
+![Image](https://i.imgur.com/ZYPwhe8.png)
 
 Why are those elitist coastal urbanites so deadset on sending their kids to Ivy League universities? Why is the American heartland rusting and the middle class shrinking?
 Why have all the good jobs gone to the big cities? Why do our most successful and powerful have a distain for the salt-of-the-earth American?
@@ -26,6 +30,8 @@ You can learn about Markovits's provocative alternative narrative in [this Atlan
 
 ## Tribe by Sebastian Junger
 
+![Image](https://i.imgur.com/tfYleDS.png)
+
 In our ancestral environment, we lived in constant danger and fought to protect and care for a small band of kin.
 
 Is this related to why veterans look back so fondly on some aspects of war, Britain saw psychiatric disorder counts collapse during the Great Blitz,
@@ -35,6 +41,8 @@ What can the relationship between our psychology and the ancestral environment t
 
 
 ## One Billion Americans by Matt Ynglesias
+
+![Image](https://i.imgur.com/hTSU1TU.png)
 
 Super provocative and controversial: An argument that having 1 billion Americans by 2100, through a combination of increased birth rate and immigration, is good for both the USA and the world.
 
