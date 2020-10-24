@@ -23,9 +23,9 @@ Why have all the good jobs gone to the big cities? Why do our most successful an
 The conventional narrative tells us that the fact that rich people tend to have more educated kids is a sign that we don't have a true meritocracy.
 Because if it were a true meritocracy, wouldn't rich and poor folks have equal chance at good educations?
 
-Daniel Markovits argues that all of these problems are at least related to natural consequences of meritocracy.
+Daniel Markovits argues that all of these problems are at least related to natural consequences of true meritocracy. Therefore, we must reform meritocracy itself.
 
-You can learn about Markovits's provocative alternative narrative in [this Atlantic article](https://www.theatlantic.com/magazine/archive/2019/09/meritocracys-miserable-winners/594760/).
+You can learn about Markovits's provocative alternative narrative in [this Vox article](https://www.vox.com/policy-and-politics/2019/10/24/20919030/meritocracy-book-daniel-markovits-inequality-rich).
 
 
 ## Tribe by Sebastian Junger
